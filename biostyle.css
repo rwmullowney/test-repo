@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    padding: 20px;
+    font-family: georgia;
+    color: #EFEEE7;
+    background-color: #333333;
+    height: 50%;
+  ;
+}
+
+h2{
+    color:#333333
+}
+
+a{
+    color:#D01639;
+}
+
+p{
+    color:#333333
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.alignbottom{
+    align-content: bottom;
+}
+
+.aligncenter{
+    align-content: center;
+}
+
+.width{
+    width: 50%;
+}
+
+.darkgrey{
+    color:#333333;
+}
+
+.margin{
+    margin:20px;
+}
